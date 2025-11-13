@@ -1,3 +1,0 @@
-  base    = "healthmate-site"
-  command = "npm run build"
-  publish = "build"
